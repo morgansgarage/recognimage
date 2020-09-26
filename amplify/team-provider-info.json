@@ -1,0 +1,15 @@
+{
+  "master": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-recognimage-master-124244-authRole",
+      "UnauthRoleArn": "arn:aws:iam::433901895206:role/amplify-recognimage-master-124244-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::433901895206:role/amplify-recognimage-master-124244-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-recognimage-master-124244-deployment",
+      "UnauthRoleName": "amplify-recognimage-master-124244-unauthRole",
+      "StackName": "amplify-recognimage-master-124244",
+      "StackId": "arn:aws:cloudformation:us-east-1:433901895206:stack/amplify-recognimage-master-124244/b032af70-001f-11eb-a9e0-0a6046b66d41",
+      "AmplifyAppId": "d36u3uowze2wuf"
+    }
+  }
+}
